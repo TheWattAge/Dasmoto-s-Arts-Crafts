@@ -1,0 +1,49 @@
+html,
+body {
+}
+
+body {
+  margin: 0 0.5rem;
+  padding: 0;
+  width: 93%;
+  font-family: arial;
+}
+
+header {
+  background-image: url("./images/pattern.jpeg");
+}
+
+header h1 {
+  /* margin: 0; */
+  padding: 0;
+  color: khaki;
+  text-align: center;
+  font-size: 5.5rem;
+}
+
+h2 {
+  padding: 0.3rem 0.1rem;
+  color: white;
+  font-size: 1.8rem;
+}
+
+section#brushes h2 {
+  background-color: lightgreen;
+}
+
+section#frames h2 {
+  background-color: lightcoral;
+}
+
+section#paint h2 {
+  background-color: lightskyblue;
+}
+
+p {
+  font-family: "Lato", sans-serif;
+}
+
+a.price {
+  font-weight: bold;
+  text-decoration: none;
+}
